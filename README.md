@@ -6,7 +6,7 @@
 <style>
 	.container-lg{
 	position:absolute;
-	max-width:95%;
+	max-width:97%;
 	margin-right:20px;
 	}
 	body{
@@ -67,7 +67,7 @@ html{
 }
 .o-n-i{
 	position: fixed;
-	top:8rem;
+	top:9rem;
 	left:6.3rem;
 	z-index: 200;
 }
