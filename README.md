@@ -7,7 +7,7 @@
 	.container-lg{
 	position:absolute;
 	max-width:95%;
-	margin-right:50px
+	margin-right:10px
 	}
 	body{
 	display:flex;
