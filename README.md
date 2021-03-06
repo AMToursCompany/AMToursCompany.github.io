@@ -115,6 +115,9 @@ html{
 .l2{
 	transform: rotate(-40deg);
 }
+.markdown-body img {
+    background-color:rgba(0,0,0,0);
+}
 .n-a{
 	font-size: 3rem;
 	font-weight: 700;
