@@ -32,7 +32,7 @@ html{
 .container{
         padding:10px;
        position: absolute;
-        right: 10px;
+        right: 30px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
