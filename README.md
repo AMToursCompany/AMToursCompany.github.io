@@ -12,7 +12,7 @@
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	padding:20px;
+	padding:40px;
 	}
 	*{
 	margin:0;
@@ -43,7 +43,7 @@ html{
 .container{
        position:relative;
        top:-80px;
-       left:-30px;
+       left:-32px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
