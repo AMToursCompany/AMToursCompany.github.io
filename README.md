@@ -5,7 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
-	max-width:1700px;
+	max-width:1800px;
+	}
+	body{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	padding:10px;
 	}
 	*{
 	margin:0;
