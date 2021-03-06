@@ -30,6 +30,8 @@ html{
 
 
 .container{
+        width: 100%;
+        height: 100%;
 	background-color:var(--secondary-color);
 	margin:3.5rem;
 	box-shadow:0 1rem 3rem var(--grey-coor);
