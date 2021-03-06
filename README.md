@@ -44,7 +44,7 @@ html{
 .container{
        position:relative;
        top:-80px;
-       left:10px;
+       left:0px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
