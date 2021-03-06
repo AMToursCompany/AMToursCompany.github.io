@@ -23,7 +23,6 @@ html{
 	--light-grey-color:#777;
 }
 .center{
-	padding:10px;
 	display:flex;
 	justify-content: center;
 	align-items: center;
@@ -31,6 +30,7 @@ html{
 
 
 .container{
+        padding:10px;
        position: absolute;
         right: 10px;
         width: 100%;
