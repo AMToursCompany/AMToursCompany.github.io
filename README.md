@@ -3,7 +3,11 @@
 <head>
 	<meta charset  ="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>*{
+<style>
+	.container-lg{
+	max-width:1700px;
+	}
+	*{
 	margin:0;
 	padding:0;
 	font-family: sans-serif;
