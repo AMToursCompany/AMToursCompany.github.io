@@ -6,7 +6,7 @@
 <style>
 	.container-lg{
 	position:absolute;
-	width:100%;
+	max-width:100%;
 	}
 	body{
 	display:flex;
