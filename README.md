@@ -44,7 +44,8 @@ html{
 .container{
        position:relative;
        top:-80px;
-       left:20px;
+       left:30px;
+       right:30px'
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
@@ -68,8 +69,8 @@ html{
 }
 .o-n-i{
 	position: fixed;
-	top:9rem;
-	left:6.3rem;
+	top:10rem;
+	left:6.5rem;
 	z-index: 200;
 }
 .o-n-i .line{
