@@ -68,8 +68,8 @@ html{
 }
 .o-n-i{
 	position: fixed;
-	top:10rem;
-	left:5rem;
+	top:13rem;
+	left:2rem;
 	z-index: 200;
 }
 .o-n-i .line{
