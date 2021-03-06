@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
-	max-width:2500px;
+	max-width:100%;
         margin-right:150px;
 	}
 	body{
@@ -42,7 +42,7 @@ html{
 
 .container{
        position:relative;
-       top:100px;
+       top:-100px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
