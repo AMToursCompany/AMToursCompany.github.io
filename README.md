@@ -6,14 +6,13 @@
 <style>
 	.container-lg{
 	position:absolute;
-	max-width:100%;
-        margin-right:150px;
+	width:100%;
 	}
 	body{
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	padding:10px;
+	padding:20px;
 	}
 	*{
 	margin:0;
@@ -44,8 +43,6 @@ html{
 .container{
        position:relative;
        top:-80px;
-       left:20px;
-       right:20px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
