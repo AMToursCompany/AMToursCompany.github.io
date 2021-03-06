@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
-	max-width:1900px;
+	max-width:2100px;
         margin-right:150px;
 	}
 	body{
