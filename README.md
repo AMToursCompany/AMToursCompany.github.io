@@ -32,6 +32,7 @@ html{
 .container{
         padding:10px;
        position: absolute;
+        left:30px;
         right: 30px;
         width: 100%;
         height: 100%;
