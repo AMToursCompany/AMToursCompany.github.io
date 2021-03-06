@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
+	position:absolute;
 	max-width:100%;
         margin-right:150px;
 	}
