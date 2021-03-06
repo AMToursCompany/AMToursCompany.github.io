@@ -30,8 +30,7 @@ html{
 
 
 .container{
-        padding:10px;
-       position: absolute;
+       position:relative;
         left:30px;
         right: 30px;
         width: 100%;
