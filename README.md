@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
-	max-width:1800px;
-        margin-right:100px;
+	max-width:1900px;
+        margin-right:150px;
 	}
 	body{
 	display:flex;
@@ -41,10 +41,8 @@ html{
 
 
 .container{
-       position:relative;
+       position:absolute;
        top:-50px;
-        left:30px;
-        right: 30px;
         width: 100%;
         height: 100%;
 	background-color:var(--secondary-color);
