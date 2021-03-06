@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 	.container-lg{
+	top:9px;
 	position:absolute;
 	max-width:100%;
 	}
@@ -68,7 +69,7 @@ html{
 .o-n-i{
 	position: fixed;
 	top:10rem;
-	left:6.5rem;
+	left:5rem;
 	z-index: 200;
 }
 .o-n-i .line{
