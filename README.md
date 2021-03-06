@@ -68,7 +68,7 @@ html{
 }
 .o-n-i{
 	position: fixed;
-	top:13rem;
+	top:10rem;
 	left:2rem;
 	z-index: 200;
 }
