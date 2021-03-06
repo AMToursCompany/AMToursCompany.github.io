@@ -6,7 +6,7 @@
 <style>
 	.container-lg{
 	position:absolute;
-	max-width:90%;
+	max-width:93%;
 	margin-right:20px
 	}
 	body{
